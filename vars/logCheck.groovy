@@ -1,4 +1,4 @@
-#!/use/bin/env/groovy
+#!/use/bin/env groovy
 
 import org.apache.groovy.parser.antlr4.util.StringUtils
 
