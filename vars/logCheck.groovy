@@ -1,4 +1,4 @@
-import org.apache.commons.lang.StringUtils
+import org.apache.commons.lang.StringUtils;
 
 def call(String filter_string, int occurrence)
 {
