@@ -1,6 +1,6 @@
 #!/use/bin/env groovy
 
-import org.apache.groovy.parser.antlr4.util.StringUtils
+import org.apache.commons.lang.StringUtils
 
 def call(String filter_string, int occurrence)
 {
